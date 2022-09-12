@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpowdump_docs=self.webpackChunkpowdump_docs||[]).push([[762],{1810:t=>{t.exports=JSON.parse('{"title":"Getting started","slug":"/category/getting-started","permalink":"/category/getting-started","navigation":{"previous":{"title":"Introduction","permalink":"/"},"next":{"title":"How the swap works","permalink":"/getting-started/how-it-works"}}}')}}]);
