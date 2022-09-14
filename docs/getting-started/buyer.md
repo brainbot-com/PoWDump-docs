@@ -44,13 +44,19 @@ Then install the dependencies navigate inside the PoWDump directory and run:
 yarn
 ```
 
-navigate inside the `packages/bots` directory and run:
+Now you need to compile the contracts. To do so run, navigate inside the `packages/contracts` directory and run:
+
+```bash
+npx hardhat compile
+```
+
+Once the contracts are compiled navigate inside the `packages/bots` directory and run:
 
 ```bash
 npx ts-node src/cmd/match.ts --help
 ```
 
-The above command should output all the possible cmd you can use:
+The above command should output all the possible `commands` that you can use:
 
 ```
 match.ts <command>
