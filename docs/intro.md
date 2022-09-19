@@ -20,3 +20,5 @@ bridges.
 
 To find out how the swap works on a technical level, check out the [How the swap works](/getting-started/how-it-works)
 page. If you want to dump immediately look at the [Seller's guide](/getting-started/seller).
+
+If you are a developer interested in the project check out the [Development](/development/intro) section.
