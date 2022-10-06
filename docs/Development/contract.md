@@ -33,6 +33,22 @@ Arg [2] : _feePerMillion (uint64): 0
 The contract can be viewed on
 etherscan [0xdC7650c7562E53115eDB02cCC7bf67FB9F79cfF4](https://etherscan.io/address/0xdC7650c7562E53115eDB02cCC7bf67FB9F79cfF4#code)
 
+
+Third contract deployment on mainnet only:
+
+```
+Arg [0] : _recipientChangeLockDuration (uint64): 1200
+Arg [1] : _feeRecipient (address): 0xc5bf0223730816f4c5057c13eab5ae99988f7795
+Arg [2] : _feePerMillion (uint64): 10000
+```
+
+The contract can be viewed on
+etherscan [0x0A09B56233cbff03411c077ebDe915d5e66e4C85](https://etherscan.io/address/0x0A09B56233cbff03411c077ebDe915d5e66e4C85#code)
+
+:::note
+The dApp currently uses the third contract deployment for mainnet: `0x0A09B56233cbff03411c077ebDe915d5e66e4C85`
+:::
+
 The contracts are available under the same addresses on the PoW chain:
 [https://www.oklink.com/en/ethw/address/0xdc8c99452dfcc0ed0574cfaa52f5cb90c8f8131c](https://www.oklink.com/en/ethw/address/0xdc8c99452dfcc0ed0574cfaa52f5cb90c8f8131c)
 [https://www.oklink.com/en/ethw/address/0xdC7650c7562E53115eDB02cCC7bf67FB9F79cfF4](https://www.oklink.com/en/ethw/address/0xdC7650c7562E53115eDB02cCC7bf67FB9F79cfF4
