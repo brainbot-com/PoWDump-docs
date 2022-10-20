@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpowdump_docs=self.webpackChunkpowdump_docs||[]).push([[354],{7461:t=>{t.exports=JSON.parse('{"title":"Tutorials","slug":"/category/tutorials","permalink":"/category/tutorials","navigation":{"previous":{"title":"Buy bots","permalink":"/Development/writing-bots"},"next":{"title":"Dump with Gnosis Safe","permalink":"/tutorials/gnosis-safe"}}}')}}]);
